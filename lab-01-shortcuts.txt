@@ -1,0 +1,16 @@
+1) ctrl + c
+2) ctrl + v
+3) ctrl + x
+4) ctrl + s
+5) shift + alt + a
+6) ctrl + /
+7) ctrl + rightArrow 
+8) ctrl + leftArrow
+9) ctrl + shift + rightArrow
+10) ctrl + shift + leftArrow
+11) ctrl + a
+12) ctrl + L
+13) home
+14) end
+15) ctrl + home
+

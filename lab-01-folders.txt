@@ -1,0 +1,19 @@
+ Volume in drive D is OS
+ Volume Serial Number is 26A9-671E
+
+ Directory of D:\Users\bradw_000\Documents\School Stuff\Cit281
+
+04/08/2021  03:22 PM    <DIR>          .
+04/08/2021  03:22 PM    <DIR>          ..
+04/01/2021  02:41 PM    <DIR>          .vscode
+04/08/2021  03:22 PM                 0 lab-01-folders.txt
+04/07/2021  02:54 PM    <DIR>          p1
+04/07/2021  02:06 PM    <DIR>          p2
+03/31/2021  03:31 PM    <DIR>          p3
+03/31/2021  03:31 PM    <DIR>          p4
+03/31/2021  03:31 PM    <DIR>          p5
+03/31/2021  03:31 PM    <DIR>          p6
+03/31/2021  03:31 PM    <DIR>          p7
+03/31/2021  03:31 PM    <DIR>          p8
+               1 File(s)              0 bytes
+              11 Dir(s)  1,506,380,197,888 bytes free
