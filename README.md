@@ -5,8 +5,8 @@
 - Setting up my computer with appropriate software for Cit 281.
 - Practice using shell commands using Windows Command Prompt.
 - Installing plugins for Visual Studio Code (Prettier, ESLint, GitHub Pull Requests and Issues).
-- Keyboard shortcuts for Visual Studio Code
-- Running a javascript file using node.js in Visual Studio Code
+- Keyboard shortcuts for Visual Studio Code.
+- Running a javascript file using node.js in Visual Studio Code.
 
 ### Purpose of Lab:
 
