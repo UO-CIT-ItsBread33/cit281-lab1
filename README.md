@@ -15,7 +15,10 @@
 - This lab also introduced us to shortcuts to save time when working with Visual Studio Code.
 - We learned basic commands using Windows Prompt that can be used to create folders and finding routes.
 
-### Outcome pics: 
+### Outcome pics:
+
+![folders](lab-01-folders.png) 
+![node](lab-01-node.png)
 
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
 
